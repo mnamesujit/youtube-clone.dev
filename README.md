@@ -8,3 +8,4 @@ And User can play videos, after after playing videos they can see recommended vi
 
 ## Features: 
 This is Fully Responsive and compatible for all devices.
+Added almost all functionalities that is available on official Youtube
