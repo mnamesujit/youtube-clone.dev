@@ -7,5 +7,5 @@ I used ReactJs, Scss for UI and and Redux Toolkit for state management.
 And User can play videos, after after playing videos they can see recommended video list and also see creator info.
 
 ## Features: 
-This is Fully Responsive and compatible for all devices.
-Added almost all functionalities that is available on official Youtube
+ - This is Fully Responsive and compatible for all devices.
+ - Added almost all functionalities that is available on official Youtube
