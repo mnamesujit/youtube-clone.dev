@@ -6,3 +6,4 @@ I used ReactJs, Scss for UI and and Redux Toolkit for state management.
 ``` reactjs ``` ``` scss ``` ``` firebase ``` ``` redux-toolkit ```
 And User can play videos, after after playing videos they can see recommended video list and also see creator info.
 
+This is Fully Responsive and compatible for all devices.
